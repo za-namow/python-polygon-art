@@ -5,3 +5,5 @@ Run these scripts locally with Python 3 and Tkinter / a graphical desktop, not i
 -2nd for Animated Art
 
 and the file named square_shape_diy is actually for the whole polygons (every shape)
+
+and another thing is you can choose to or not to pick brush size in the animation part
